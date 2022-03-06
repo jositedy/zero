@@ -1,1 +1,1 @@
-uname "unix"
+uname -s
